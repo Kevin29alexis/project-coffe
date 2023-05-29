@@ -1,0 +1,8 @@
+[
+  { "tipo": "expresso", "precio": "700" },
+  { "tipo": "jarrito cortado", "precio": "600" },
+  { "tipo": "cappuchino especial", "precio": "950" },
+  { "tipo": "mocaccino", "precio": "1000" },
+  { "tipo": "lagrima", "precio": "800" },
+  { "tipo": "cafe con leche sin medialuna", "precio": "800" }
+]
